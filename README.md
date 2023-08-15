@@ -13,7 +13,14 @@ certifique-se de que você tem os seguintes pré-requisitos instalados em seu si
 1. Python: [Download e Instalação](https://www.python.org/downloads/)
 2. FFmpeg: [Download e Instalação](https://ffmpeg.org/download.html)
 
+Na linha de comando do prompt digitar o comando abaixo:
+
+   ```sh
+   pip install yt-dlp
+
 ## Uso
+
+
 
 clique 2 vezes no arquivo .py de sua escolha
 
