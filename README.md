@@ -16,8 +16,8 @@ certifique-se de que você tem os seguintes pré-requisitos instalados em seu si
 Na linha de comando do prompt digitar o comando abaixo:
 
    ```sh
-   pip install yt-dlp
-
+   pip install yt-dlp 
+```
 ## Uso
 
 
